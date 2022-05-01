@@ -891,8 +891,8 @@ img {vertical-align: middle;}
 }
 .createdBy{
 	position: absolute;
-    bottom: -21px;
-    right: 50%;
+    top: 15px;
+    right: 45%;
     font-family: 'Satisfy', cursive;
 }
 
